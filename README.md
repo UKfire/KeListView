@@ -67,6 +67,6 @@ Download ZIP，然后解压，将ylistview包添加到自己的项目中，然�
 ##写在最后
 二珂女神镇楼
 
-欢迎大家访问我的主页[二可](www.ytying.com)
+欢迎大家访问我的主页[二可](http://www.ytying.com)
 
 ![pullToRefresh](http://115.29.113.234:8080/yy/8.jpg)
