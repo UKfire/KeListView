@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                         adapter.notifyDataSetChanged();
                         listview.onRefreshComplete();
                     }
-                }, 3000);
+                }, 10000);
 
             }
 
@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                         adapter.notifyDataSetChanged();
                         listview.onLoadComplete();
                     }
-                }, 3000);
+                }, 10000);
             }
         });
     }
